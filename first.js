@@ -44,7 +44,7 @@ http
       res.statusCode = 302;
         res.setHeader("Location", "/");
       return res.end();
-    }\
+    }
     // res.end();
     // process.exit();
   })
