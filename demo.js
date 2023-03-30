@@ -1,1 +1,0 @@
-import Component1 from "./FILES/Folder/Index";

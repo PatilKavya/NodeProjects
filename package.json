@@ -1,0 +1,24 @@
+{
+  "name": "nodeprojects",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon first.js",
+    "start-server": "node first.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatilKavya/NodeProjects.git"
+  },
+  "author": "kavya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatilKavya/NodeProjects/issues"
+  },
+  "homepage": "https://github.com/PatilKavya/NodeProjects#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
